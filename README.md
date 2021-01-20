@@ -1,2 +1,2 @@
-# aditya-verma.github.io
+# aditya_verma.github.io
 Portfolio
