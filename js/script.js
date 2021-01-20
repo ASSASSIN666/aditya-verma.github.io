@@ -173,7 +173,7 @@ function stuff(x, z) {
 
 function redirect(id) {
     if (id == "git0" || id == "git1" || id == "git2") {
-        window.open("https://github.com/assassin666");
+        window.open("https://github.com/ad1tya-v3rma");
     } else if (id == "mail0" || id == "mail1" || id == "mail2") {
         window.location.href = "mailto:aditya.verma8842@protonmail.com";
     } else if (id == "hr0" || id == "hr1") {
