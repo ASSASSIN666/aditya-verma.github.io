@@ -47,7 +47,19 @@ h1 {}
     align-items: center;
     justify-content: center;
 }
-
+#skip{
+    position: absolute;
+    bottom: 20%;
+    outline: none;
+    height: 50px;
+    font-size: 25px;
+    border: 5px solid white;
+    color: white;
+    background-color: transparent;
+    font-family: 'lucida console';
+    animation: 1s blynk infinite;
+    transition: visibility 0.5s, opacity 0.5s linear;
+}
 #continue {
     display: none;
     outline: none;

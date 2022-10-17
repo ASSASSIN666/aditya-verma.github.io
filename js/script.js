@@ -26,6 +26,7 @@ TxtType.prototype.tick = function() {
         document.getElementById("continue").style.display = "block";
         document.getElementById("continue").style.visibility = "visible";
         document.getElementById("continue").style.opacity = 1;
+        document.getElementById("skip").style.display = "none";
         return;
     }
     this.el.innerHTML = '<span class="wrap">' + this.txt + '</span>';
