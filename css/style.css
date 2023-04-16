@@ -21,7 +21,6 @@ body {
     width: auto;
 }
 
-h1 {}
 
 @keyframes blink {
     from,
@@ -192,12 +191,12 @@ svg {
     fill: white;
     height: 0.5em;
     width: 0.5em;
-    transition: 0.5s;
+    transition: 0.1s;
 }
 
 svg:hover {
-    height: 0.55em;
-    width: 0.55em;
+    height: 0.6em;
+    width: 0.6em;
     fill: red;
 }
 
@@ -259,7 +258,6 @@ a:hover {
     text-align: left;
 }
 
-#profile {}
 
 #education,
 #contact {
