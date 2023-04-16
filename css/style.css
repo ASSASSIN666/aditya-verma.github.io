@@ -535,7 +535,7 @@ div.item::-webkit-scrollbar {
         display: flex;
         flex-direction: column;
         align-items: center;
-        justify-content: ;
+        justify-content: center;
         width: 100%;
     }
     .icons-mobile {
